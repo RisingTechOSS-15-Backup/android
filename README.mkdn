@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/RisingOS-staging/android/blob/fifteen/risingOS_banner.png">
+<img src="https://github.com/RisingTechOSS/android/blob/fifteen/risingOS_banner.png">
 </p>
 
 What is RisingOS?
@@ -18,7 +18,7 @@ Getting Started
 ---------------
 **Initialize local repository**
 ```bash
-repo init -u https://github.com/RisingOS-staging/android -b fifteen --git-lfs
+repo init -u https://github.com/RisingTechOSS/android -b fifteen --git-lfs
 ```
 
 **Sync up with this command:**
@@ -35,10 +35,10 @@ rm -rf vendor/gms
 rm -rf .repo/projects/vendor/gms.git
 rm -rf .repo/project-objects/*/android_vendor_gms.git
 
-repo init -u https://github.com/RisingOS-staging/android -b fifteen --git-lfs
+repo init -u https://github.com/RisingTechOSS/android -b fifteen --git-lfs
 
 # for SSH
-repo init -u git@github.com:RisingOS-staging/android.git -b fifteen --git-lfs 
+repo init -u git@github.com:RisingTechOSS/android.git -b fifteen --git-lfs 
 
 ```
 
