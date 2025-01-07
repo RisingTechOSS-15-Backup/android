@@ -162,6 +162,10 @@
   <!-- AOSP Services -->
   <project path="packages/services/Telecomm" name="android_packages_services_Telecomm" groups="pdk-cw-fs,pdk-fs" remote="rising" />
 
+  <!-- Glyph  -->
+  <project path="packages/apps/ParanoidGlyphPhone2" name="android_packages_apps_ParanoidGlyph" groups="pdk-cw-fs,pdk-fs" remote="rising" />
+
+
   <!-- System  -->
   <project path="system/core" name="android_system_core_new" groups="pdk" remote="rising" />
   <project path="system/libhidl" name="android_system_libhidl" groups="pdk,sysui-studio" remote="rising" />
