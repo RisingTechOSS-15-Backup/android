@@ -178,7 +178,7 @@
   <project path="vendor/gms" name="android_vendor_gms" remote="gitlab" />
   <project path="vendor/lineage" name="android_vendor_lineage" remote="rising" />
   <project path="vendor/rising" name="android_vendor_rising" groups="pdk-fs" remote="rising" />
-  <project path="vendor/risingOTA" name="android_vendor_RisingOTA" remote="devices" />
+  <project path="vendor/official_devices" name="official_devices" remote="devices" />
   <project path="vendor/pixel-framework" name="android_vendor_pixel-framework" remote="rising" />
   <project path="vendor/pixeloverlays" name="android_vendor_pixeloverlays" remote="rising" />
 </manifest>
