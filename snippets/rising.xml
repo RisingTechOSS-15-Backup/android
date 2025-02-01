@@ -8,13 +8,13 @@
           revision="refs/heads/fifteen" />
 
   <remote name="rising"
-          fetch="https://github.com/RisingTechOSS/"
+          fetch="https://github.com/RisingTechOSS-15-Backup/"
           sync-c="true"
           sync-j="4"
           revision="refs/heads/fifteen" />
 
   <remote name="gitlab"
-          fetch="https://gitlab.com/RisingTechOSS/"
+          fetch="https://gitlab.com/Yoris-AOSP-Institute/"
           sync-c="true"
           sync-j="4"
           revision="refs/heads/fifteen" />
@@ -175,7 +175,7 @@
 
   <!-- Vendor  -->
   <project path="vendor/addons" name="android_vendor_addons" remote="rising" />
-  <project path="vendor/gms" name="android_vendor_gms" remote="gitlab" />
+  <project path="vendor/gms" name="RisingTechOSS_vendor_gms" remote="gitlab" />
   <project path="vendor/lineage" name="android_vendor_lineage" remote="rising" />
   <project path="vendor/rising" name="android_vendor_rising" groups="pdk-fs" remote="rising" />
   <project path="vendor/official_devices" name="official_devices" remote="devices" />
